@@ -1,0 +1,13 @@
+net start "SiteMinder Authentication Service"
+net start "Siteminder Authorization Service"
+net start "ColdFusion Executive"
+net start "Cold Fusion Application Server"
+net start "ColdFusion RDS"
+net start "ColdFusion Graphing Server"
+net start "ColdFusion Management Repository Server"
+net start "ColdFusion Management Service"
+net start "ColdFusion Monitoring Service"
+net start "ColdFusion MX Application Server"
+net start "ColdFusion MX ODBC Agent"
+net start "ColdFusion MX ODBC Server"
+pause
